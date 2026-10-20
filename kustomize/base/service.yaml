@@ -8,6 +8,8 @@ kind: Service
 metadata:
   name: sk134-myfirst-api-server
   namespace: class-4
+  label:
+    app: sk134-myfirst-api-server
 spec:
   type: ClusterIP
   selector:
