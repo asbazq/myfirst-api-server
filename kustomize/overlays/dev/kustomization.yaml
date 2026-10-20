@@ -20,4 +20,4 @@ patches:
 images:
 - name: skala-registry.skala-us.com/class-4/sk134-webserver
   newName: skala-registry.skala-us.com/class-4/sk134-webserver
-  newTag: 1.0-bd1-cf6b42e
+  newTag: 1.0-bd6-ef809e0
